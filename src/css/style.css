@@ -2,13 +2,15 @@ body {
     font-family: 'Times New Roman', Georgia, serif;
     color: #556677;
     background: #dbd8e4;
-    max-width: 800px;
-    width: 100%;
 
 }
 
+.center-block {
+    max-width: 800px;
+    width: 100%;
+}
+
 .block1 {
-    text-orientation: revert;
     color: #2faa1a;
 }
 
@@ -30,4 +32,12 @@ body {
 .block5 {
     font-size: 22px;
 
+}
+
+.f1_input {
+    float: right;
+}
+
+.f2_input {
+    float: right;
 }
